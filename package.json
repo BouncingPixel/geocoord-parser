@@ -1,0 +1,16 @@
+{
+  "name": "geocoord-parser",
+  "version": "0.1.0",
+  "description": "Parses loose DD, DDM, and DMS coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover jasmine",
+    "coverage": "istanbul cover jasmine"
+  },
+  "author": "Matt Hall <mhall@bouncingpixel.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.8.0"
+  }
+}
